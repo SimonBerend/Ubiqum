@@ -197,6 +197,7 @@ OutputSplit$Delhi
 # result <- lapply(elements, FUN, additional stuff)
 
 
+
 #### ADVANCED SHIT ####
 
 # Using the INDEX argument of T apply, we can create a new array where the dimensions are 
